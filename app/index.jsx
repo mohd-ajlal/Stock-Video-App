@@ -66,3 +66,6 @@ export default function App() {
     </SafeAreaView>
   );
 }
+
+
+// com.mohdajlal.aora
