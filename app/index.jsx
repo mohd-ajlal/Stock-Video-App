@@ -12,12 +12,6 @@ export default function App() {
   
   if(!isLoading && isLoggedIn) return <Redirect href="/home" />
   return (
-    //  <View className="flex-1 items-center justify-center bg-white">
-    //   <Text className="text-3xl font-pblack">Stock Video App</Text>
-    //   <StatusBar style='auto' />
-    //   <Link href="/home" style={{color:'blue'}}>Go to Home</Link>
-    // </View>
-
     // SafeAreaView ensures that content should be visible on all different devices
 
     <SafeAreaView className="bg-primary h-full">
